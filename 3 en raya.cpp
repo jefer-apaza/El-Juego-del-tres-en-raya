@@ -1,5 +1,5 @@
-# El-Juego-del-tres-en-raya
-Trabajo final
+/*# El-Juego-del-tres-en-raya
+Trabajo final*/
 #include <iostream>#include <iostream>
 #include <ctime>
 #include <cstdlib>
